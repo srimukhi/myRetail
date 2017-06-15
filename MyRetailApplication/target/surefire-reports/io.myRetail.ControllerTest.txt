@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.myRetail.ControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.959 sec - in io.myRetail.ControllerTest
